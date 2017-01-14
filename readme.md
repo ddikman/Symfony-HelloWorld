@@ -1,4 +1,4 @@
-# Symfpny-HelloWorld
+# Symfony-HelloWorld
 Training project for using [Symfony](http://symfony.com/).
 
 ## Setup
