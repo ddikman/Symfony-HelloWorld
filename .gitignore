@@ -1,0 +1,3 @@
+# Ignore temporary files
+app/var/cache
+app/var/logs
