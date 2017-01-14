@@ -1,0 +1,8 @@
+web:
+  build: .
+  working_dir: /var/www/html
+  command: php bin/console server:run 0.0.0.0:8000
+  ports:
+    - "8080:8000"
+  volumes:
+    - ./app:/var/www/html
