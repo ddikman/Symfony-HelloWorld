@@ -13,4 +13,7 @@ docker-compose up -d web
 
 To remove all instances: `docker-compose down --rmi all`
 
+## Site
+After running the site will be available at [http://localhost:8080](http://localhost:8080).
+
 ### Details learned
